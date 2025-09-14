@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Facial Fusion AI",
+  "description": "An AI-powered image generator that uses an uploaded facial photo and a text prompt to create new, stunning images with a high degree of resemblance to the original face.",
+  "requestFramePermissions": []
+}
